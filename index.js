@@ -1,3 +1,5 @@
-echo "$ git init"
-echo "Initialized empty Git repository in /my-project/.git/"
-echo
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello from Jenkins!");
+    }
+}
